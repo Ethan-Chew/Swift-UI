@@ -13,6 +13,7 @@
 		599B836A2521A1A0007A88E4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 599B83692521A1A0007A88E4 /* Assets.xcassets */; };
 		599B836D2521A1A0007A88E4 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 599B836C2521A1A0007A88E4 /* Preview Assets.xcassets */; };
 		599B83702521A1A0007A88E4 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 599B836E2521A1A0007A88E4 /* LaunchScreen.storyboard */; };
+		599B837D2521A591007A88E4 /* CircleImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 599B837C2521A591007A88E4 /* CircleImage.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		599B836C2521A1A0007A88E4 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		599B836F2521A1A0007A88E4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		599B83712521A1A0007A88E4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		599B837C2521A591007A88E4 /* CircleImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleImage.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				599B83652521A19D007A88E4 /* SceneDelegate.swift */,
 				599B83672521A19D007A88E4 /* ContentView.swift */,
 				599B83692521A1A0007A88E4 /* Assets.xcassets */,
+				599B837C2521A591007A88E4 /* CircleImage.swift */,
 				599B836E2521A1A0007A88E4 /* LaunchScreen.storyboard */,
 				599B83712521A1A0007A88E4 /* Info.plist */,
 				599B836B2521A1A0007A88E4 /* Preview Content */,
@@ -146,6 +149,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				599B83642521A19D007A88E4 /* AppDelegate.swift in Sources */,
+				599B837D2521A591007A88E4 /* CircleImage.swift in Sources */,
 				599B83662521A19D007A88E4 /* SceneDelegate.swift in Sources */,
 				599B83682521A19D007A88E4 /* ContentView.swift in Sources */,
 			);
